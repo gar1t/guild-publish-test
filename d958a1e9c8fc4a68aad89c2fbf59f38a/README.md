@@ -50,7 +50,15 @@ Scalars are metrics generated during a run.
 
 
 
-Files
+## Run Files
+
+*Run files* are non-source code files. They're either inputs to the
+run (dependencies) or outputs (generated files).
+
+The following files are associated with this run:
+
+- [generated-1.txt](generated-1.txt)- [generated-2.txt](generated-2.txt)
+
 
 
 Source Code
