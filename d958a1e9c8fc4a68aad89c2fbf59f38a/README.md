@@ -29,12 +29,11 @@
 Flags are user-defined input to the run. The following flags were used
 for this run:
 
-| Name | Value |
-| ---- | ----- |
+|   |   |
+|---|---|
 | a | 1 |
 | b | 2 |
 
-[flags.yml](flags.yml)
 
 
 
@@ -57,7 +56,11 @@ run (dependencies) or outputs (generated files).
 
 The following files are associated with this run:
 
-- [generated-1.txt](generated-1.txt)- [generated-2.txt](generated-2.txt)
+
+ - [generated-1.txt](generated-1.txt)
+
+ - [generated-2.txt](generated-2.txt)
+
 
 
 
