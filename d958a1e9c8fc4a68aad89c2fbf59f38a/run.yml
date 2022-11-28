@@ -1,0 +1,10 @@
+id: d958a1e9c8fc4a68aad89c2fbf59f38a
+operation: op
+status: completed
+started: 2022-11-28 19:17:57 UTC
+stopped: 2022-11-28 19:17:57 UTC
+time: 0:00:00
+marked: 'no'
+label: a=1 b=2
+command: /usr/bin/python -um guild.op_main op -- --a 1 --b 2
+exit_status: 0
