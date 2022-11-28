@@ -8,7 +8,7 @@
 *op a=1 b=2*
 
 
-|           |                     |
+| Attribute | Value               |
 |-----------|---------------------|
 | ID        | d958a1e9c8fc4a68aad89c2fbf59f38a        |
 | Operation | op |
