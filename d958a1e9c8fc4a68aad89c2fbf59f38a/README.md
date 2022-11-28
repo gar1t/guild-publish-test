@@ -15,9 +15,13 @@
 | Label     | a=1 b=2     |
 
 
+## Contents
 
-Contents
-
+- [Flags](#flags)
+- [Scalars](#scalars)
+- [Run Files](#run-files)
+- [Source Code](#source-code)
+- [Output](#output)
 
 
 Flags
