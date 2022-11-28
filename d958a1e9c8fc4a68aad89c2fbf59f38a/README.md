@@ -57,11 +57,7 @@ run (dependencies) or outputs (generated files).
 
 The following files are associated with this run:
 
-
- - [generated-1.txt](generated-1.txt)
-
- - [generated-2.txt](generated-2.txt)
-
+- [generated-1.txt](generated-1.txt)- [generated-2.txt](generated-2.txt)
 
 
 
