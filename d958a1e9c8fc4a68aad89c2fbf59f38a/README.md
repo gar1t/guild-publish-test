@@ -24,7 +24,18 @@
 - [Output](#output)
 
 
-Flags
+## Flags
+
+Flags are user-defined input to the run. The following flags were used
+for run d958a1e9:
+
+| Name | Value |
+| ---- | ----- |
+| a | 1 |
+| b | 2 |
+
+[flags.yml](flags.yml)
+
 
 
 Scalars
