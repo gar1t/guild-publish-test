@@ -27,7 +27,7 @@
 ## Flags
 
 Flags are user-defined input to the run. The following flags were used
-for run d958a1e9:
+for this run:
 
 | Name | Value |
 | ---- | ----- |
@@ -38,7 +38,16 @@ for run d958a1e9:
 
 
 
-Scalars
+## Scalars
+
+Scalars are metrics generated during a run.
+
+| Key | Last Logged Value |
+| --- | ----- |
+ | x | 3.0 (step 0 |
+ | y | 1.0 (step 0 |
+
+
 
 
 Files
