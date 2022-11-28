@@ -43,9 +43,9 @@ for this run:
 Scalars are metrics generated during a run.
 
 | Key | Last Logged Value |
-| --- | ----- |
- | x | 3.0 (step 0 |
- | y | 1.0 (step 0 |
+|-----|-------------------|
+ | x | 3.0 (step 0) |
+ | y | 1.0 (step 0) |
 
 
 
